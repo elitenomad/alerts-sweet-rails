@@ -1,6 +1,7 @@
 # Alerts::Sweet::Rails
 
-TODO: Write a gem description
+Please follow the JS documentation through the below URL
+http://tristanedwards.me/sweetalert?utm_source=javascriptweekly&utm_medium=email
 
 ## Installation
 
@@ -18,7 +19,15 @@ Or install it yourself as:
 
 ## Usage
 
-TODO: Write usage instructions here
+Add two lines for
+
+    application.js:
+        //= require sweet-alert
+
+    application.css:
+    /*
+     *= require sweet-alert
+     */
 
 ## Contributing
 
